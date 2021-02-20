@@ -1,0 +1,348 @@
+@media(min-width: 320px) and (max-width: 480px){
+
+.navbar-nav{
+    float: left;
+    width: 100%;
+}
+.logo{
+	width: 84%;
+	float: left;
+}
+.navbar-light .navbar-toggler{
+	width: 12%;
+	float: right;
+	outline: none;
+    background-color: #fff;
+}
+.navbar-nav li{
+    text-align: left;
+    font-size: 13px;
+    border-top: solid 1px #4558C4;
+    padding-left: 25px;
+    margin: 0 !important;
+}
+
+.navbar-nav > li > a {
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.navbar-light .navbar-toggler .fa{
+	color: #223CCC;
+	padding: 5px 0;
+}
+.carousel-inner .item img{
+    height: 200px;
+}
+.carousel-caption h3{
+    font-size: 18px;
+    line-height: 30px;
+}
+section.services {
+    padding-bottom: 0;
+}
+.heading-agileinfo {
+    font-size: 24px;
+}
+.heading-agileinfo span::after {
+    right: 35%;
+    width: 90px;
+}
+.c_txt{
+	min-height: 0;
+}
+.agile_testimonials_grid p {
+    font-size: 13px;
+    text-align: justify;
+}
+.agileits-abt-grids span{
+	font-size: 14px;
+}
+.copyrightbottom p {
+    font-size: 13px;
+}
+.banner-1 .heading-agileinfo {
+    padding-top: 40px;
+}
+.about-tp h2 {
+    font-size: 22px;
+}
+.thumbnail.team-agileits{
+    margin: 10px 0;
+}
+footer {
+    padding: 25px 0;
+}
+.contact_grid_right input[type="submit"], .contact_grid_right input[type="reset"] {
+    margin-bottom: 50px;
+}
+.logo img, .addcls .logo img{
+    width: 125px;
+padding: 10px 0px;
+margin: 0;
+}
+.plan table td{
+    font-size: 12px;
+}
+.plan table th{
+    font-size: 14px
+}
+.stats_left p{
+    font-size: 30px;
+}
+.carousel-caption {
+    top: 22%;
+    right: 10%;
+    left: 10%;
+    background-color: rgba(0, 0, 0, 0.6);
+    height: 100px;
+}
+.top .t_rt, .top-left ul{
+    text-align: left;
+}
+.top-left li{
+    width: 50%;
+    float: left;
+    font-size: 12px;
+}
+.top-left{
+    padding: 0;
+    margin: 1px 0 !important;
+}
+.top li i {
+    padding: 8px 8px;
+    font-size: 10px;
+    margin-right: 0px;
+}
+.stats_left {
+    margin-top: 50px;
+}
+.new_top {
+    margin-top: 25px;
+}
+.why-choose-agile{
+    margin: 50px 0;
+}
+.agile_testimonials_grid_right {
+    width: 90%;
+}
+.agile_testimonials_grids {
+    margin: 1em 1em 0;
+}
+.prd_inr {
+    transform: rotate(3deg);
+    margin-bottom: 15px;
+}
+.lgn {
+    margin: 15px;
+}
+.iq-features{
+    display:none;
+}
+.hdr_btm {
+    background: #eeeeee;
+    border-bottom: solid #ddd 0px;
+    padding: 0;
+}
+.navbar-nav {
+  
+    background: #1b5a94;
+}
+
+
+}
+ @media screen and (max-width:575px){
+    .top {
+    position: relative;
+}
+ }
+
+ @media screen and (max-width:575px){
+section.abt{
+   margin-top: 40px;
+}
+ }
+@media(min-width: 481px) and (max-width: 767px){
+
+.navbar-nav{
+    float: left;
+    width: 100%;
+}
+.logo{
+    width: 84%;
+    float: left;
+}
+.navbar-light .navbar-toggler{
+    width: 12%;
+    float: right;
+    outline: none;
+    background-color: #ea6370;
+}
+.navbar-nav li{
+    text-align: left;
+    font-size: 13px;
+    border-top: solid 1px #eee;
+    padding-left: 25px;
+}
+.navbar-nav > li > a {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.navbar-light .navbar-toggler .fa{
+    color: #fff;
+    padding: 5px 0;
+}
+.carousel-inner .item img{
+    height: 200px;
+}
+.carousel-caption h3{
+    font-size: 18px;
+    line-height: 30px;
+}
+section.services {
+    padding-bottom: 0;
+}
+.heading-agileinfo {
+    font-size: 24px;
+}
+.heading-agileinfo span::after {
+    right: 35%;
+    width: 90px;
+}
+.c_txt{
+    min-height: 0;
+}
+.agile_testimonials_grid p {
+    font-size: 13px;
+    text-align: justify;
+}
+.agileits-abt-grids span{
+    font-size: 14px;
+}
+.copyrightbottom p {
+    font-size: 13px;
+}
+.banner-1 .heading-agileinfo {
+    padding-top: 40px;
+}
+.about-tp h2 {
+    font-size: 22px;
+}
+.thumbnail.team-agileits{
+    margin: 10px 0;
+}
+footer {
+    padding: 25px 0;
+}
+.contact_grid_right input[type="submit"], .contact_grid_right input[type="reset"] {
+    margin-bottom: 50px;
+}
+.logo img {
+    width: 150px;
+}
+.plan table td{
+    font-size: 12px;
+}
+.plan table th{
+    font-size: 14px
+}
+.stats_left p{
+    font-size: 30px;
+}
+.carousel-caption {
+    top: 22%;
+    right: 10%;
+    left: 10%;
+    background-color: rgba(0, 0, 0, 0.6);
+    height: 100px;
+}
+
+
+}
+
+
+@media(min-width: 768px) and (max-width: 1024px){
+
+.navbar-light .navbar-toggler{
+    display: none;
+}
+.navbar-nav{
+    -webkit-box-orient: horizontal;
+    display: inherit;
+}
+.logo{
+    position: absolute;
+}
+.navbar-nav > li {
+    font-size: 12px;
+    margin-right: 0 !important;
+    margin-left: 20px;
+}
+.carousel-inner .item img{
+    height: 300px;
+}
+.carousel-caption h3{
+    font-size: 28px;
+}
+.new_top h3 {
+    font-size: 18px;
+    letter-spacing: 0px;
+}
+.new_top p{
+    line-height: 20px;
+}
+section.services {
+    padding-bottom: 0;
+}
+.img-section4 {
+    display: none;
+}
+.test-tooltip1::after{
+    bottom: -7%;
+}
+.top-left li{
+    font-size: 12px;
+}
+.top-middle i{
+    width: 20px;
+    height: 20px;
+    font-size: 14px;
+}
+.contact_left_grid .col-md-4{
+    max-width: 32.333%;
+}
+.hdr_btm .container{
+    padding: 0;
+}
+.reg_pg .about-tp h2{
+    font-size: 15px;
+}
+.logo img {
+    width: 150px;
+}
+.stats_left h3 {
+    font-size: 15px;
+}
+.stats_left p{
+    font-size: 30px;
+}
+.plan table td{
+    font-size: 13px;
+}
+.contact_grid_right input[type="submit"], .contact_grid_right input[type="reset"]{
+    padding: 12px 0;
+}
+.why-choose-agile{
+    margin: 50px 0;
+}
+.prd img {
+    height: 225px;
+}
+.agile_testimonials_grid_right {
+    width: 92%;
+}
+.holderCircle{
+    display: none;
+}
+
+
+}
