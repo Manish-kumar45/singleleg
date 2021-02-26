@@ -175,6 +175,7 @@ if (!function_exists('incomes')) {
 
     function incomes() {
         $incomes = array(
+            'roi_level_income'=> 'Daily Level Cashback',
             'direct_income'=> 'Direct Income',
             'level_income'=> 'Level Income',
             'single_leg'=> 'Single Leg Income',
